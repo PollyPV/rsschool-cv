@@ -53,7 +53,6 @@ After a while, I realized that I wanted to master the profession of Frontend dev
 </body>
 </html>
 ```
-
 ## **Education and courses:**
 
 * Belarusian State Pedagogical University
