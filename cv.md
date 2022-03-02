@@ -2,9 +2,9 @@
 
 ## **Contacts**
 
-* **Phone:**   +375 29 852-41-67
-* **E-mail:**  polina.plotko@gmail.com
-* **GitHub:**  PollyPV
+* **Phone:** +375 29 852-41-67
+* **E-mail:** polina.plotko@gmail.com
+* **GitHub:** PollyPV
 
 ## **About Me**
 
