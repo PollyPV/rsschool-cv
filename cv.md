@@ -2,7 +2,6 @@
 
 ## **Contacts**
 
-* **Phone:** +375 29 852-41-67
 * **E-mail:** polina.plotko@gmail.com
 * **GitHub:** PollyPV
 
@@ -27,31 +26,13 @@ After a while, I realized that I wanted to master the profession of Frontend dev
 ## **Code example:**
 
 ```
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <style>
-        #image {
-            display: none;
-        }
-    </style>
-</head>
-<body>
-    <img id="loader" src="Spinner-1s-200px.gif" width="100" alt="312">
-    <img id="image" src="water.jpg" width="900px" alt="123" onload="myFunc()">
-
     <script>
         function myFunc() {
             document.getElementById('loader').style.display = 'none';
             document.getElementById('image').style.display = 'inline-block';
         }
     </script>
-</body>
-</html>
+
 ```
 ## **Education and courses:**
 
